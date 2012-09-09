@@ -1,0 +1,8 @@
+# Use the README file as a reference to customize settings.
+
+Task:
+  fields:
+    default: title, completed, user_id
+    form: title, completed, user_id
+  relationships: 
+  application: Application
